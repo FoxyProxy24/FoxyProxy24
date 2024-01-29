@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FoxyProxy24
+- 👀 I’m interested in learning to program
+- 🌱 I’m currently learning Swift and HTML
